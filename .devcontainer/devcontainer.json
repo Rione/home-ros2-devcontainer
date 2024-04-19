@@ -1,0 +1,7 @@
+{
+    "name": "ROS 2 devcontainer",
+    "dockerComposeFile": "compose.yaml",
+    "service": "app",
+    "workspaceFolder": "/ros2_ws",
+    "postCreateCommand": "./.devcontainer/post-create.sh"
+}

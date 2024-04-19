@@ -1,0 +1,9 @@
+# ROS
+build/
+install/
+log/
+src/*
+!src/.gitkeep
+
+# direnv
+.envrc
